@@ -9,12 +9,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-    <a href="https://www.linkedin.com/in/full-stack-js-software-engineer" target="_blank"><img alt="LinkedIn"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:webdev.faizanali@gmail.com" target="_blank"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.upwork.com/freelancers/~01fd17d7943d98645a" target="_blank"><img height="30px" alt="Upwork"
             src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" /></a>
+    <!-- /<a href="https://www.linkedin.com/in/full-stack-js-software-engineer" target="_blank"><img alt="LinkedIn"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:webdev.faizanali@gmail.com" target="_blank"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.upwork.com/freelancers/~01fd17d7943d98645a" target="_blank"><img height="30px" alt="Upwork"
+            src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" /></a> --> 
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
