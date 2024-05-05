@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/His
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <div align="left">
 <a href="https://www.upwork.com/freelancers/~01fd17d7943d98645a" target="_blank"><img height="30px" alt="Upwork"
         src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" /></a>
